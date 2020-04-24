@@ -1,0 +1,91 @@
+{
+  "f04d7832725488d92a67220afde544df" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "bd4eaeeb3820e059",
+      "reportUrl" : "http://192.168.1.34:8090/job/Appium_Android/23/allure/#testresult/bd4eaeeb3820e059",
+      "status" : "passed",
+      "time" : {
+        "start" : 1587549976623,
+        "stop" : 1587549984355,
+        "duration" : 7732
+      }
+    }, {
+      "uid" : "4cad5e70e8618d92",
+      "reportUrl" : "http://192.168.1.34:8090/job/Appium_Android/22/allure/#testresult/4cad5e70e8618d92",
+      "status" : "passed",
+      "time" : {
+        "start" : 1587549845401,
+        "stop" : 1587549853194,
+        "duration" : 7793
+      }
+    } ]
+  },
+  "142849c1536d0e1edecd900add214d4d" : {
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "bb5986e3f8e8ce57",
+      "reportUrl" : "http://192.168.1.34:8090/job/Appium_Android/23/allure/#testresult/bb5986e3f8e8ce57",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: 计算有误\nassert 5 == 6",
+      "time" : {
+        "start" : 1587549984358,
+        "stop" : 1587549984359,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "de2e18a320f290ca",
+      "reportUrl" : "http://192.168.1.34:8090/job/Appium_Android/22/allure/#testresult/de2e18a320f290ca",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: 计算有误\nassert 5 == 6",
+      "time" : {
+        "start" : 1587549853199,
+        "stop" : 1587549853199,
+        "duration" : 0
+      }
+    } ]
+  },
+  "3227c2b24c68649e4120f00b032eaaba" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "7a5e2b8972c27d0e",
+      "reportUrl" : "http://192.168.1.34:8090/job/Appium_Android/23/allure/#testresult/7a5e2b8972c27d0e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1587549947994,
+        "stop" : 1587549975980,
+        "duration" : 27986
+      }
+    }, {
+      "uid" : "a07ef9c069214aa2",
+      "reportUrl" : "http://192.168.1.34:8090/job/Appium_Android/22/allure/#testresult/a07ef9c069214aa2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1587549816892,
+        "stop" : 1587549844749,
+        "duration" : 27857
+      }
+    } ]
+  }
+}

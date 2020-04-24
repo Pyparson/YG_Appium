@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Apr 22 19:31:40 CST 2020","Wed Apr 22 19:31:49 CST 2020","9332","Case","test_mine","TestMine","","","test_room_change","切换房间"
+"failed","Wed Apr 22 19:31:49 CST 2020","Wed Apr 22 19:31:49 CST 2020","0","Case","test_mine","TestMine","","","test_add","比较两值是否相等"
+"passed","Wed Apr 22 19:31:11 CST 2020","Wed Apr 22 19:31:39 CST 2020","27349","Case","test_home","TestHome","","","test_room_change","切换房间"

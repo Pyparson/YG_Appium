@@ -1,0 +1,88 @@
+{
+  "uid" : "7c5b73019a1b7f37",
+  "name" : "test_add",
+  "fullName" : "Case.test_mine.TestMine#test_add",
+  "historyId" : "142849c1536d0e1edecd900add214d4d",
+  "time" : {
+    "start" : 1587549984358,
+    "stop" : 1587549984359,
+    "duration" : 1
+  },
+  "description" : "比较两值是否相等",
+  "descriptionHtml" : "<p>比较两值是否相等</p>\n",
+  "status" : "failed",
+  "statusMessage" : "AssertionError: 计算有误\nassert 5 == 6",
+  "statusTrace" : "self = <Case.test_mine.TestMine object at 0x10641d5b0>\n\n    @allure.description(\"比较两值是否相等\")\n    def test_add(self):\n        a = 2\n        b = 3\n        c = a+b\n        d = a*b\n>       assert c==d,\"计算有误\"\nE       AssertionError: 计算有误\nE       assert 5 == 6\n\nCase/test_mine.py:22: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1587549975984,
+      "stop" : 1587549976622,
+      "duration" : 638
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1587549984423,
+      "stop" : 1587549984423,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Case"
+  }, {
+    "name" : "suite",
+    "value" : "test_mine"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestMine"
+  }, {
+    "name" : "host",
+    "value" : "Parsons-Mac-mini.local"
+  }, {
+    "name" : "thread",
+    "value" : "20523-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Case.test_mine"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7c5b73019a1b7f37.json",
+  "parameterValues" : [ ]
+}

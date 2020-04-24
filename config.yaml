@@ -1,0 +1,15 @@
+platformVersion: 8.1.0
+platformName: Android
+udid: XXXX
+appPackage: com.argrace.oem
+appActivity: .MainActivity
+SendReport: True
+sender: mobile@sunseaaiot.com
+sender_password: Kingly6666
+smtp_server: smtp.exmail.qq.com
+receivers: [hongchunpai@sunseaaiot.com, changhuawei@sunseaaiot.com]
+report_name: Auto_Test_Report
+TestList:
+Level: info
+Phone: VIVO
+light: {"user":"wyc+prodcn@sunseaaiot.com","password":"wyc123456","device":"Smart_Light中龙通","DSN":"AC000W007903977"}

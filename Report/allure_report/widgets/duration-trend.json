@@ -1,0 +1,15 @@
+[ {
+  "buildOrder" : 1,
+  "reportUrl" : "http://192.168.1.34:8090/job/Appium_Android_2/1/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 37764
+  }
+}, {
+  "buildOrder" : 22,
+  "reportUrl" : "http://192.168.1.34:8090/job/Appium_Android/22/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 36307
+  }
+} ]

@@ -1,0 +1,63 @@
+{
+  "f04d7832725488d92a67220afde544df" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4cad5e70e8618d92",
+      "reportUrl" : "http://192.168.1.34:8090/job/Appium_Android/22/allure/#testresult/4cad5e70e8618d92",
+      "status" : "passed",
+      "time" : {
+        "start" : 1587549845401,
+        "stop" : 1587549853194,
+        "duration" : 7793
+      }
+    } ]
+  },
+  "142849c1536d0e1edecd900add214d4d" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "de2e18a320f290ca",
+      "reportUrl" : "http://192.168.1.34:8090/job/Appium_Android/22/allure/#testresult/de2e18a320f290ca",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: 计算有误\nassert 5 == 6",
+      "time" : {
+        "start" : 1587549853199,
+        "stop" : 1587549853199,
+        "duration" : 0
+      }
+    } ]
+  },
+  "3227c2b24c68649e4120f00b032eaaba" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a07ef9c069214aa2",
+      "reportUrl" : "http://192.168.1.34:8090/job/Appium_Android/22/allure/#testresult/a07ef9c069214aa2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1587549816892,
+        "stop" : 1587549844749,
+        "duration" : 27857
+      }
+    } ]
+  }
+}

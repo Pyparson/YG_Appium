@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: 计算有误\nassert 5 == 6",
+      "children" : [ {
+        "name" : "test_add",
+        "uid" : "6795a294f5ac3d0c",
+        "parentUid" : "ab6488cbe17e63f9fe7c6dddd4edcf82",
+        "status" : "failed",
+        "time" : {
+          "start" : 1587555109653,
+          "stop" : 1587555109653,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ab6488cbe17e63f9fe7c6dddd4edcf82"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}
